@@ -2,4 +2,4 @@ This is to help keep track of all versions of the original csv file throughout t
 
 The original raw data is kept in Edu.csv
 
-All subsequent versions are labeled with version number, e.g Edu1.csv & Edu2.csv respectively 
+All subsequent versions are labeled with version number, e.g Edu1.csv & Edu2.csv for versions 1 and 2 respectively 
