@@ -8,3 +8,8 @@ Edu.csv is the orginal raw copy of the data before any preprocessing. It should 
 ## Edu Version 1
 We changed all of the object variables to categories,. All columns are now numeric and ready for feature selection.
 Also renamed 'Gender  ' to 'Gender'
+
+
+### Files
+Since all files are greater than 25MB, they cannot be uploaded to Github, please find them at the linke below
+https://drive.google.com/drive/folders/1s5T3nIpjazKad0PJQpa2geInPh7rrWPR?usp=sharing
