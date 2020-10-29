@@ -13,3 +13,9 @@ Also renamed 'Gender  ' to 'Gender'
 ### Files
 Since all files are greater than 25MB, they cannot be uploaded to Github, please find them at the linke below
 https://drive.google.com/drive/folders/1s5T3nIpjazKad0PJQpa2geInPh7rrWPR?usp=sharing
+
+## Edu Version 2
+Top 35 feature selected numeric attributes, this is to be used for the classifcations and further 
+
+## Edu Version 3
+Top 35 feature selected attributes from the original dataset, this is to be used for exploratory data analysis. 
