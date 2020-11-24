@@ -18,3 +18,6 @@ Top 35 feature selected numeric attributes, this is to be used for the classifca
 
 ## Edu Version 3
 Top 35 feature selected attributes from the original dataset, this is to be used for exploratory data analysis. 
+
+## Edu Version 4
+Since Edu3 contained null values, we performed preprocessing to deal with them. This version contains the top 35 feature selected attributes from the original dataset, this is to be used for exploratory data analysis and the Tableau dashboard.  
