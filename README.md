@@ -5,3 +5,5 @@ According to the Annual Status of Education Report (ASER) 2018, Pakistan has one
 In this project, we aimed to analyse this dataset to explore the determinants and reasons behind the low enrollment and high dropout rates in Pakistan's rural areas.
 
 We have compiled our findings and presented them as a dashboard, along with a report that can be found at https://alishujjat.github.io/website/
+
+Please find all the files used in the folder above, along with all the notebooks used in this project.
